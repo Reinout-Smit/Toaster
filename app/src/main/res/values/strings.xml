@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="ticker">0</string>
+    <string name="btn_toast">Toast</string>
+    <string name="btn_count">Count</string>
+    <string name="btn_random">Random</string>
+</resources>
